@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remaining rooted to Singapore: “Where are you really from?"
+title: "Remaining rooted to Singapore: “Where are you really from?”"
 permalink: /food-for-thought/from-the-community/remaining-rooted-to-singapore-where-are-you-really-from
 image: /images/stories/2020/Jun/sharmishta-1.jpg
 ---
