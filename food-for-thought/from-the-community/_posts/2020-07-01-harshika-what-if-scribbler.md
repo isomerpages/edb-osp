@@ -92,14 +92,9 @@ What if 2020 isn’t a mistake but a correction of all mistakes?
 
 What if 2020 is the foundation on which the future is being laid?
 
-<br>
-
 What if 2020 was taken away and none of this ever happened?
 
-<br>
-<br>
-
-What if 2020 never happened?
+<br> What if 2020 never happened?
 
 #### About the Author
 
