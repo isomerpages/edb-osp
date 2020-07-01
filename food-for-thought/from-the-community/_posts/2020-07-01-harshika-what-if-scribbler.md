@@ -96,6 +96,8 @@ What if 2020 was taken away and none of this ever happened?
 
 <br> What if 2020 never happened?
 
+<hr>
+
 #### About the Author
 
 ![Image](/images/stories/2020/Jul/harshika-bio.png)
