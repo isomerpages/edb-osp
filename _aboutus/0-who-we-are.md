@@ -51,14 +51,16 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 <tr>
 <br>
 <td style="width: 180px;">
-  <img src="/images/region-reps/anna.png" alt="Anna" /></td>
-  <td><strong>Anna Tan</strong><br/>
+  <img src="/images/region-reps/alberenee.png" alt="Alberenee" /></td>
+  <td><strong>Alberenee Sim</strong>
     
-  <br/>With an innate entrepreneurial spirit, Anna constantly strives to build meaningful relationships and partnerships. Always up for conversations over a good cuppa, she looks forward to meeting and catching up with friends regularly as she finds inspiration in every encounter. So feel free to drop her a note anytime, to just chat!
+  <br/><br/>An extrovert, Alberenee likes to meet new people, hear and be inspired by their stories and life experiences. It also gives her great joy and motivation in being able to help bridge meaningful connections and forge mutually-beneficial partnerships at work.
+
+  <br/><br/> When she is not hanging out with friends over brunch and exploring different parts of Singapore during the weekends, she will attempting new baking recipes at home. She also enjoys a daily cuppa - a cup of teh-c a day fuels her day ahead!
     
-  <br/><br/><i> Anna covers Continental Europe </i>
+  <br/><br/><i> Alberenee covers Continental Europe. </i>
   
-  <br/><br/> Contact her <a href="mailto:Anna_tan@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/anna-tan-aaa850b1">LinkedIn</a>! </td>
+  <br/><br/> Contact her <a href="mailto:Alberenee_sim@edb.gov.sg">here</a> or add her on <a href="https://linkedin.com/in/albereneesim">LinkedIn</a>! </td>
 </tr>
 </table>
 
