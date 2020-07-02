@@ -8,7 +8,6 @@ permalink: /events/
 | Event  | Date & Time | Details |
 |---|---|---|
 | Shopee Code League 2020 | 8 Jun - 1 Aug | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
-| Exclusive: Fireside chat between LinkedIn Co-founder Allen Blue and Singapore Senior Minister of State Dr Janil Puthucheary | 14 Jul, 9am SGT | [Find out more](https://go.gov.sg/postcovid) |
 
 
 ### Past Events
