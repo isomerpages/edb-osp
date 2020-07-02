@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Great Founders Win: Insights from 200 Founder Interviews in Southeast Asia"
-permalink: /food-for-thought/from-the-community/brian-ma-insights-from-200-founder-interviews
+permalink: /food-for-thought/gateway-to-asean/brian-ma-insights-from-200-founder-interviews
 image: /images/stories/2020/May/brianma-1.jpg
 ---
 
