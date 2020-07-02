@@ -2,7 +2,7 @@
 layout: post
 title: "Startup traps to avoid - building for Southeast Asia"
 permalink: /food-for-thought/gateway-to-asean/brian-ma-startup-traps-to-avoid
-image: /images/stories/2020/May/brianma-1.jpg
+image: /images/stories/2020/Jul/startuptraps-1.jpg
 ---
 
 ### Startup traps to avoid - building for Southeast Asia
