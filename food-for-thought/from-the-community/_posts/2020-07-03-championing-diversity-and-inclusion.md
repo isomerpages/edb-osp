@@ -103,4 +103,4 @@ If there is one thing to take away from this post, I hope it’s for people to t
 
 Whether it’s to call out inappropriate jokes in your circles; push for a (more robust) diversity and inclusion policy at your workplace that’s properly enforced and audited; advocate for more inclusive government policies; or volunteer with organisations that support vulnerable communities, we each have a role to play.
 
-_This [article](https://pride.kindness.sg/championing-diversity-and-inclusion/) was first published on The Pride. Curated by the Singapore Kindness Movement, The Pride discusses current affairs, social issues and highlights acts of kindness in Singapore.
+_This [article](https://pride.kindness.sg/championing-diversity-and-inclusion/) was first published on The Pride. Curated by the Singapore Kindness Movement, The Pride discusses current affairs, social issues and highlights acts of kindness in Singapore._
