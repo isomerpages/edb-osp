@@ -2,6 +2,7 @@
 layout: post
 title: "Racism coloured my childhood and I still fight against stereotypes today"
 permalink: /food-for-thought/from-the-community/championing-diversity-and-inclusion
+image: /images/stories/2020/Jul/trang-chu-minh-2.jpg
 ---
 
 ### Racism coloured my childhood and I still fight against stereotypes today
