@@ -108,6 +108,8 @@ Whether it’s to call out inappropriate jokes in your circles; push for a (more
 
 _This [article](https://pride.kindness.sg/championing-diversity-and-inclusion/) was first published on The Pride. Curated by the Singapore Kindness Movement, The Pride discusses current affairs, social issues and highlights acts of kindness in Singapore._
 
+- - -
+
 **Trang Chu Minh**
 Sustainability Professional | Social Enterprise & Women’s Rights Advocate | Storyteller 
 
