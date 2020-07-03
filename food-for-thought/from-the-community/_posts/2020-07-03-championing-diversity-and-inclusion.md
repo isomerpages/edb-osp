@@ -7,6 +7,8 @@ image: /images/stories/2020/Jul/trang-chu-minh-2.jpg
 
 ### Racism coloured my childhood and I still fight against stereotypes today
 
+_Following a childhood in Hungary, and studies in the UK and Australia, moving to Singapore is when Trang finally felt like she belonged. The Vietnamese-Hungarian, who has made Singapore her home for close to a decade now, shares her struggles with racism growing up, and how she fights for greater diversity and inclusion today._
+
 By Trang Chu Minh 
 <hr>
 Growing up, racism was a regular part of my life. But while it coloured my childhood, thanks to family and friends, it did not define me. And even though I have become more resilient and compassionate because of it, I have also always battled a sense of ‘survivor’s guilt’.
@@ -105,3 +107,11 @@ If there is one thing to take away from this post, I hope it’s for people to t
 Whether it’s to call out inappropriate jokes in your circles; push for a (more robust) diversity and inclusion policy at your workplace that’s properly enforced and audited; advocate for more inclusive government policies; or volunteer with organisations that support vulnerable communities, we each have a role to play.
 
 _This [article](https://pride.kindness.sg/championing-diversity-and-inclusion/) was first published on The Pride. Curated by the Singapore Kindness Movement, The Pride discusses current affairs, social issues and highlights acts of kindness in Singapore._
+
+**Trang Chu Minh**
+Sustainability Professional | Social Enterprise & Women’s Rights Advocate | Storyteller 
+
+Based out of Singapore and Indonesia, Trang leads a global sustainability and diversity and inclusion project for Refinitiv (formerly Thomson Reuters Financial & Risk). In addition, she divides her time as Asia Correspondent for Causeartist, looking after the media platform’s coverage of the region, as a freelance contributor to publications focused on social and environmental issues, and as a consultant on international development projects on topics ranging from climate change mitigation to education or women’s rights. 
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/trang-chu-minh/) | [Twitter](https://twitter.com/TrangChuMinh) | [Causeartist](https://www.causeartist.com/author/trang_chu_minh/) 
+
