@@ -8,7 +8,7 @@ image: /images/stories/2020/Jul/carolyn-ng-1.jpg
 ### Investing in the future – Carolyn Ng on how global biotech and diversity will change our world 
 
 ![Image](/images/stories/2020/Jul/carolyn-ng-1.jpg)
-_Carolyn Ng, PhD, Manager Director, Vertex Ventures HC_
+_Carolyn Ng, PhD, Managing Director, Vertex Ventures HC_
 
 _As Managing Director of Vertex Ventures HC located in the Bay Area, Carolyn Ng leads an investment team to fund healthcare-focused opportunities globally. Passionate about biotech innovation, diversity, and gender equality, the former oncology scientist shares how her Singaporean roots and cross-border expertise add valuable perspective to her work with companies and investors._
 
