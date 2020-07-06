@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5Qs with Joanna Lau"
-permalink: /food-for-thought/from-the-community/5qs-nadia-ann-huifang
+permalink: /food-for-thought/from-the-community/5qs-joanna-lau
 image: /images/stories/2020/Jul/joannalau-1.jpg
 ---
 
