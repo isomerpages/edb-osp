@@ -67,7 +67,7 @@ In terms of funding, Carolyn shares that there has been a significant surge in V
 
 On that note, Carolyn maintains her stance that she is “bullish” about Singapore’s health tech ecosystem. She says, “Singapore will continue to play an important role in fostering a robust tech ecosystem in the next 10 years,” and that “hopefully there be more Singaporeans like myself who will be involved in biopharma innovation on the global stage in years to come”.
 
-![Image](/images/stories/2020/Jul/carolyn-picnic.jpg)
+![Image](/images/stories/2020/Jul/carolynpicnic.jpg)
 _CNY 2020 - Carolyn (second from left) enjoying a picnic with her immediate family at the Marina Barrage in Singapore_
 
 _(Photo Credit: Carolyn Ng)_
