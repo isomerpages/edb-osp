@@ -20,8 +20,8 @@ When Carolyn was offered the chance by her firm to move to the US office three y
 
 Today, she is Managing Director at Vertex Ventures HC (San Francisco, CA), the largest Singaporean early-stage venture fund network that invests globally in healthcare and was the youngest to be promoted to co-head a healthcare VC fund from Singapore. Vertex has a few hundred million USD under management. In 2019, the first biotech investment that Carolyn had led in 2017, a company founded by Nobel Laureate Sir Greg Winter, went public on NASDAQ. She then also became one of the youngest directors on the board of a NASDAQ listed public company in the biotech sector.  
 
-![Image](/images/stories/2020/Jul/carolyn-ng-2.jpg)
-_Carolyn (third from left) with Sir Greg Winter (second from left) whose biotech company went public on NASDAQ in 2019_
+![Image](/images/stories/2020/Jul/carolyn-greg.jpg)
+_Carolyn (right) with Sir Greg Winter whose biotech company went public on NASDAQ in 2019_
 
 “I saw the great opportunity to professionally develop myself and be exposed to the brilliant biopharma talent pool [in the US],” Carolyn recounts. She shares that she has a strong passion in her career to create a positive impact for patients, where she would ultimately want to see cancer and other serious diseases being addressed with biotech innovation.
 
@@ -66,6 +66,9 @@ She highlights that there has been an expansion in the talent pool of next-gener
 In terms of funding, Carolyn shares that there has been a significant surge in VC funds investing in Southeast Asia, and that Singapore is always going to be a hotspot because of strong government and political stability, making it conducive for start-up companies to get funding and IP protection. 
 
 On that note, Carolyn maintains her stance that she is “bullish” about Singapore’s health tech ecosystem. She says, “Singapore will continue to play an important role in fostering a robust tech ecosystem in the next 10 years,” and that “hopefully there be more Singaporeans like myself who will be involved in biopharma innovation on the global stage in years to come”.
+
+![Image](/images/stories/2020/Jul/carolyn-picnic.jpg)
+_CNY 2020 - Carolyn (second from left) enjoying a picnic with her immediate family at the Marina Barrage in Singapore_
 
 _(Photo Credit: Carolyn Ng)_
 
