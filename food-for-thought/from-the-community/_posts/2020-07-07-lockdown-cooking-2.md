@@ -54,7 +54,7 @@ For now, how about trying one of the recipes here below – it might become one 
 •	Salt <br/> 
 •	White wine - replace with soya sauce if an Asian version is preferred <br/> 
 </td>
-<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-4.png" />(Image credit: The Forked Spoon)</td>
+<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-4.png" /></td>
 </tr>
 </table>
 
@@ -90,7 +90,7 @@ FOR THE MARINADE<br/>
 •	Salt<br/>
 •	Black pepper<br/>
 </td>
-<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-5.png" /></td>
+<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-5.png" />(Image credit: The Forked Spoon)</td>
 </tr>
 </table>
 
