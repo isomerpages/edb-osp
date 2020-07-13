@@ -1,6 +1,6 @@
 ---
 title: National Day 2020: The Social Distancing Edition
-permalink: /resources/national-day-2020/
+permalink: /resources/national-day/
 ---
 ![National Day 2020](/images/national-day/NDHeader.png)
 
@@ -35,10 +35,6 @@ Are you celebrating online this year? Transport yourself to Singapore with these
 ### Add a touch of red and white
 ![National Day Buntings](/images/national-day/NDbuntings.png)
 Feeling crafty? We love these easy, no-sew [DIY flags](docs/NDFlagDIY.pdf) and [buntings](docs/SGN-ND-Buntings.pdf).
-
-Post a postcard to Singapore using these postcard colouring templates on familiar Singapore icons  
-
-
 
 ### The essential [Spotify playlist](https://open.spotify.com/playlist/2g7OIauaGcWWBAsfldwywB?si=Jxa_8dX6Rza4cnNuaJtQmQ) every August
 Of course, it features everyone’s fave – Home.
