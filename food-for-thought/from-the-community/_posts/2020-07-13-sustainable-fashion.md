@@ -2,7 +2,7 @@
 layout: post
 title: "Taking the highway to Singapore’s runways"
 permalink: /food-for-thought/from-the-community/sustainable-fashion
-image: /images/stories/2020/Jul/lockdowncooking2-5.png
+image: /images/stories/2020/Jul/sustainability3.png
 ---
 
 ### Taking the highway to Singapore’s runways
@@ -16,7 +16,7 @@ With the sustainable movement on the rise across cities, it is no doubt that fas
 
 For Source Collections, a Singapore-based clothing brand that uses natural and/or eco-friendly materials for their products with plastic-free packaging, “sustainability is more about one’s personal and/or company value.” Building on this belief, founder Vincent Ooi shares that the brand has committed to creating quality and timeless designs that can last more than just a season using natural or eco-friendly materials. 
 
-![Image](/images/stories/2020/Jul/lockdowncooking2-1.png)<br/>
+![Image](/images/stories/2020/Jul/sustainability1.png)<br/>
 _(Source Collections uses natural and/or eco-friendly materials for their products.)_
 
 Vincent, a returning Singaporean, left behind an illustrious career in design and manufacturing in Hong Kong to settle down back home and start a business venture. “Singapore has proven to be one of the few first-world countries where one can easily set up a company, have and offers numerous grants that help start-ups and SMEs, and an attractive tax regime,” he explains.
@@ -31,7 +31,7 @@ At the core of its business, Toni believes that sustainability is not just being
 
 Under her direction, the brand is committed to the fair treatment of its workers and their family, even going so far as to double the minimum wage, and are committed to 
 
-![Image](/images/stories/2020/Jul/lockdowncooking2-2.png)<br/>
+youtube vid embed<br/>
 _(Purnama Outreach upcycles waste into materials for fashion and accessories.)_
 
 Rae Indah-Purnama and Charles Pitts, co-founders of Singapore-based sustainable brand Purnama Outreach, shares that the business always pushed for a lean supply chain and the use of environmentally preferred choices. “We work with our makers to use organic, natural, vegan materials, aiming for zero waste. Then we went further by creating our upcycling project turning waste into bold fashion and accessories.” 
@@ -42,7 +42,7 @@ The brand had recently worked with partners at the NUS Business School (National
 
 **Championing consciousness in consumerism **
 
-![Image](/images/stories/2020/Jul/lockdowncooking2-3.png)<br/>
+![Image](/images/stories/2020/Jul/sustainability2.png)<br/>
 _(Woonhung is a sustainable accessories line that uses natural materials and supports cottage industries in Asia.)_
 
 Yvonne Chia, the founder of Woonhung, a sustainable accessories line, recalls that at the start of the business, there were many challenges in convincing Singaporeans to pay premium prices for products made by cottage industries using sustainably sourced materials. Being in the fashion industry also called for a need to work on everlasting designs that could become a staple piece in the wardrobe. 
@@ -61,7 +61,7 @@ While many fashion brands have taken steps to be more sustainable today, Vincent
 
 “There’s an increasing demand for brands to be more transparent and to adopt sustainable practices from consumers today,” Vincent stresses. He reckons that sustainable fashion businesses will find themselves with new and emerging opportunities moving forward. 
 
-![Image](/images/stories/2020/Jul/lockdowncooking2-3.png)<br/>
+![Image](/images/stories/2020/Jul/sustainability3.png)<br/>
 _(August Society is committed to the fair treatment of its workers and their family.)_
 
 Brands can embrace sustainability in many ways, according to Toni. “To put it broadly, it’s to practice business in a way to prioritise environmental or social benefits. Examples could be by creating less waste, being less harmful to the environment, or ensuring workers are treated and paid fairly.” 
