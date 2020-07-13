@@ -7,7 +7,7 @@ image: /images/stories/2020/Jul/sustainability3.png
 
 ### Taking the highway to Singapore’s runways
 
-_Behind the glam of fashion’s runways, pressing social issues are an ongoing stem from fast fashion. Brands are taking the highway into being more conscious and are committing to sustainable, green practices and actively championing for living wages for those in the production lines. We chat with local brands August Society, Purnama Outreach, Source Collections and Woonhung on their views of pushing for the greater good in fashion, and how Singapore has been a core part of that journey._
+_Behind the glam of fashion’s runways, pressing social issues are an ongoing stem from fast fashion. Brands are taking the highway into being more conscious and are committing to sustainable, green practices and actively championing for living wages for those in the production lines. We chat with local brands [August Society](https://augustsociety.com), [Purnama Outreach](https://shoppurnama.com), [Source Collections](https://www.sourcecollections.com) and [Woonhung](http://www.woonhung.co) on their views of pushing for the greater good in fashion, and how Singapore has been a core part of that journey._
 
 
 <hr>
