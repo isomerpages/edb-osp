@@ -18,8 +18,10 @@ We’re so excited to see how our SGN community marks Singapore’s National Day
 ![National Day Celebrations](/images/national-day/NDCelebrations.jpg)
 ### Catch the party of the year
 Viewing Singapore’s [National Day Parade 2020](https://www.ndp.gov.sg/whatshappening/bringing-ndp-to-our-homes/) online. Even better, organise a virtual watch party with friends and loved ones!
+
 ### Got a birthday greeting?
 Join Singaporeans and friends of Singapore from all around the world in [penning birthday greetings](https://www.kudoboard.com/boards/KfOOT9pr?rid=b43b0215#view) for the little red dot!
+
 ### Celebrations around the world!
 Singapore communities everywhere are organising e-gatherings this August. Find one near you!
 
