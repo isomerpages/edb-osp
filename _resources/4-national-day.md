@@ -4,7 +4,7 @@ permalink: /resources/national-day/
 ---
 ![National Day 2020](/images/national-day/NDHeader.png)
 
-Share your wishes in a giant SGN birthday card to Singapore, browse free craft projects, check out celebrations with Singapore communities near you, and many more.
+Share your wishes to Singapore, browse free craft projects, check out celebrations with Singapore communities near you, and many more.
 We’re so excited to see how our SGN community marks Singapore’s National Day around the world, so join in the party by including the hashtag **#SGNcelebrates** in your posts for a chance to be featured on SGN’s social media.
 
 **Happy Birthday/生日快乐/Selamat Hari Jadi/பிறந்த நாள் வாழ்த்துக்கள், Singapore! 55 looks amazing on you.**
@@ -19,8 +19,8 @@ We’re so excited to see how our SGN community marks Singapore’s National Day
 ### Catch the party of the year
 Viewing Singapore’s [National Day Parade 2020](https://www.ndp.gov.sg/whatshappening/bringing-ndp-to-our-homes/) online. Even better, organise a virtual watch party with friends and loved ones!
 
-### Got a birthday greeting?
-Join Singaporeans and friends of Singapore from all around the world in [penning birthday greetings](https://www.kudoboard.com/boards/KfOOT9pr?rid=b43b0215#view) for the little red dot!
+### Share your stories
+Join Singaporeans and friends of Singapore from all around the world in [sharing your stories](https://www.ndp.gov.sg/ourheartforsg/overview) for the little red dot! Share your reflections, your words of thanks, your hopes and aspirations. Share from your heart. Together, these make up our experience as a people: what we have gone through, and where we want to go!
 
 ### Celebrations around the world!
 Singapore communities everywhere are organising e-gatherings this August. Find one near you!
