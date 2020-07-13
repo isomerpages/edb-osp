@@ -32,7 +32,6 @@ At the core of its business, Toni believes that sustainability is not just being
 Under her direction, the brand is committed to the fair treatment of its workers and their family, even going so far as to double the minimum wage, and are committed to 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pvmgj_N0C1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Java Beans](https://www.youtube.com/embed/pvmgj_N0C1Y)<br/>
 _(Purnama Outreach upcycles waste into materials for fashion and accessories.)_
 
 Rae Indah-Purnama and Charles Pitts, co-founders of Singapore-based sustainable brand Purnama Outreach, shares that the business always pushed for a lean supply chain and the use of environmentally preferred choices. “We work with our makers to use organic, natural, vegan materials, aiming for zero waste. Then we went further by creating our upcycling project turning waste into bold fashion and accessories.” 
