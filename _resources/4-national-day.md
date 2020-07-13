@@ -30,11 +30,6 @@ Singapore communities everywhere are organising e-gatherings this August. Find o
 
 Are you celebrating online this year? Transport yourself to Singapore with these wonderfully nostalgic [Zoom backgrounds](https://www.singaporeglobalnetwork.gov.sg/resources/shntertainment/#wfh-stuff).
 
-![Childhood Toys](/images/national-day/NMSNostalgia.png)
-_Image Credits: [National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/museumfromhome---get-curious)_
-
-Find out more about the heritage scenes and sights in Singapore through this colouring activity, consisting of seven mural scenes created by Yip Yew Chong from the National Museum of Singapore’s Moving Memories installation. Download scenes from [Kampungs](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/1_a4_moving-memories-1---kampung.pdf), [Kopitiam](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/2_a4_moving-memories-2---kopitiam.pdf), [Barber](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/3_a4_moving-memories-3---barber.pdf), and even an old school [Provision Shop](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/7_a4_moving-memories-7--provision-shop.pdf)!  The Moving Memories installation, which was first presented at the museum in 2017, can now be enjoyed [online](https://www.youtube.com/watch?v=FraabLL9XdM), anywhere and anytime. Enjoy viewing the video installation as a family! Get the entire family to join in, so they can share stories about their experiences with these heritage scenes and sights of the past. 
-
 ### Add a touch of red and white
 ![National Day Buntings](/images/national-day/NDbuntings.png)
 Feeling crafty? We love these easy, no-sew [DIY flags](docs/NDFlagDIY.pdf) and [buntings](docs/SGN-ND-Buntings.pdf).
@@ -51,16 +46,29 @@ Of course, it features everyone’s fave – Home.
 ### Let’s go on a journey
 Join in a magical storytelling session by Singaporean author Gwen Lee. _(Coming soon!)_
 
+Or, you can explore the places, history and legends of Singapore through these stories!
+
+* **[A Narrow Escape](https://www.youtube.com/watch?v=GK-OIE0QqKM&feature=youtu.be):** Join twins Toby and Tammy as they travel back in time to 1935, and go on an adventure and discover Singapore’s historical awe-inspiring buildings.  
+_Fun fact: These buildings are now preserved as Singapore’s National Monuments!_
+* **[History of Singapore](https://www.youtube.com/watch?v=DbaQmATHoww):** Follow the journey of Singapore’s history in this animation, from when our pioneers first arrived on our sunny island, to gaining Independence and the modernisation of our country.  
+* **[Attack of the Swordfish](https://www.facebook.com/NationalHeritageBoardSG/videos/2508430612805646/):** What has a swordfish got to do with a Singapore town? Find out how the neighbourhood of Redhill got its name, and spot fellow Singaporeans contributing to this creative storytelling!  
+
 ### Explore our rich history and culture
+![Childhood Toys](/images/national-day/NMSNostalgia.png)
+_Image Credits: [National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/museumfromhome---get-curious)_
+
+Find out more about the heritage scenes and sights in Singapore through this colouring activity, consisting of seven mural scenes created by Yip Yew Chong from the National Museum of Singapore’s Moving Memories installation. Download scenes from [Kampungs](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/1_a4_moving-memories-1---kampung.pdf), [Kopitiam](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/2_a4_moving-memories-2---kopitiam.pdf), [Barber](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/3_a4_moving-memories-3---barber.pdf), and even an old school [Provision Shop](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/7_a4_moving-memories-7--provision-shop.pdf)!  The Moving Memories installation, which was first presented at the museum in 2017, can now be enjoyed [online](https://www.youtube.com/watch?v=FraabLL9XdM), anywhere and anytime. Enjoy viewing the video installation as a family! Get the entire family to join in, so they can share stories about their experiences with these heritage scenes and sights of the past. 
+
+
 Tons of local children’s titles with familiar themes, all at your fingertips – and free to loan!
 
 ### Make playtime more fun
-Introduce your little ones to the little red dot with Singapore-themed [games, colouring pages, DIY toys, and more.](https://www.singaporeglobalnetwork.gov.sg/resources/resources-for-kids/)
+Introduce your little ones to the little red dot with Singapore-themed [games, colouring pages, and more.](https://www.singaporeglobalnetwork.gov.sg/resources/resources-for-kids/)
 
 ![Childhood Toys](/images/national-day/NMSChildhoodtoys.png)
 _Image Credits: [National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/museumfromhome---get-curious)_
 
-Have fun colouring these images of our favourite childhood toys - [Five stones and pick up sticks](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/fivestones--pickup-sticks.pdf), [Hungry Hippos](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/hungry-hippos.pdf), [Gasing](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/gasing.pdf) and [Wind-up Toys](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/wind-up-toys.pdf)!  
+Have fun colouring these images of our favourite childhood toys - [Five stones and Pick Up Sticks](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/fivestones--pickup-sticks.pdf), [Hungry Hippos](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/hungry-hippos.pdf), [Gasing](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/gasing.pdf) and [Wind-up Toys](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/programmes/museumfromhome/wind-up-toys.pdf)!  
 
 ## <a id="local-food-recipes"></a>The Way to Every Singaporean's Heart
 
