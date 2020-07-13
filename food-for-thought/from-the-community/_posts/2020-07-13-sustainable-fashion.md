@@ -31,7 +31,8 @@ At the core of its business, Toni believes that sustainability is not just being
 
 Under her direction, the brand is committed to the fair treatment of its workers and their family, even going so far as to double the minimum wage, and are committed to 
 
-youtube vid embed<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pvmgj_N0C1Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Java Beans](https://www.youtube.com/embed/pvmgj_N0C1Y)<br/>
 _(Purnama Outreach upcycles waste into materials for fashion and accessories.)_
 
 Rae Indah-Purnama and Charles Pitts, co-founders of Singapore-based sustainable brand Purnama Outreach, shares that the business always pushed for a lean supply chain and the use of environmentally preferred choices. “We work with our makers to use organic, natural, vegan materials, aiming for zero waste. Then we went further by creating our upcycling project turning waste into bold fashion and accessories.” 
@@ -40,7 +41,7 @@ Purnama Outreach was formed after the couple’s relocation to Singapore in 2008
 
 The brand had recently worked with partners at the NUS Business School (National University of Singapore) under its Social Enterprise Internships Project and found that 43% (3 in 5 APAC) of consumers purchased at least one product because it was manufactured by a company committed to a social cause. 86% of those surveyed were willing to pay more for socially conscious brands – showing that the industry is evolving from tradition.  
 
-**Championing consciousness in consumerism **
+**Championing consciousness in consumerism**
 
 ![Image](/images/stories/2020/Jul/sustainability2.png)<br/>
 _(Woonhung is a sustainable accessories line that uses natural materials and supports cottage industries in Asia.)_
