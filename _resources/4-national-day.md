@@ -33,7 +33,7 @@ Singapore communities everywhere are organising e-gatherings this August. Find o
 Are you celebrating online this year? Transport yourself to Singapore with these wonderfully nostalgic [Zoom backgrounds](https://www.singaporeglobalnetwork.gov.sg/resources/shntertainment/#wfh-stuff).
 
 ### Add a touch of red and white
-![National Day Buntings](/images/national-day/NDbuntings.png)
+[![National Day Buntings](/images/national-day/NDbuntings.png)](docs/SGN-ND-Buntings.pdf)
 Feeling crafty? We love these easy, no-sew [DIY flags](docs/NDFlagDIY.pdf) and [buntings](docs/SGN-ND-Buntings.pdf).
 
 ### The essential [Spotify playlist](https://open.spotify.com/playlist/2g7OIauaGcWWBAsfldwywB?si=Jxa_8dX6Rza4cnNuaJtQmQ) every August
