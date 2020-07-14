@@ -1,7 +1,10 @@
 ---
-title: "National Day 2020: The Social Distancing Edition"
+title: "National Day 2020"
 permalink: /resources/national-day/
 ---
+
+### National Day 2020: The Social Distancing Edition
+
 ![National Day 2020](/images/national-day/NDHeader.png)
 
 Share your wishes to Singapore, browse free craft projects, check out celebrations with Singapore communities near you, and many more.
