@@ -3,7 +3,7 @@ title: "National Day 2020"
 permalink: /resources/national-day/
 ---
 
-### National Day 2020: The Social Distancing Edition
+## National Day 2020: The Social Distancing Edition
 
 ![National Day 2020](/images/national-day/NDHeader.png)
 
