@@ -45,9 +45,7 @@ Of course, it features everyone’s fave – Home.
 ## <a id="young-ones"></a>For the Young Ones (and the Young at Heart)
 
 ### Let’s go on a journey
-Join in a magical storytelling session by Singaporean author Gwen Lee. _(Coming soon!)_
-
-Or, you can explore the places, history and legends of Singapore through these stories!
+Watch Singapore come to life with these magical storytelling sessions:
 
 * **[A Narrow Escape](https://www.youtube.com/watch?v=GK-OIE0QqKM&feature=youtu.be):** Join twins Toby and Tammy as they travel back in time to 1935, and go on an adventure to discover Singapore’s historical awe-inspiring buildings.  
 _Fun fact: These buildings are now preserved as Singapore’s National Monuments!_
