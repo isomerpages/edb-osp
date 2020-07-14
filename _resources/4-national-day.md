@@ -32,7 +32,7 @@ Singapore communities everywhere are organising e-gatherings this August. Find o
 
 ### Add a touch of red and white
 ![National Day Buntings](/images/national-day/NDbuntings.png)
-Feeling crafty? We love these easy, no-sew [DIY flags](docs/NDFlagDIY.pdf) and [buntings](docs/SGN-ND-Buntings.pdf).
+Feeling crafty? We love these easy, no-sew [DIY flags](https://www.singaporeglobalnetwork.gov.sg/docs/NDFlagDIY.pdf) and [buntings](https://www.singaporeglobalnetwork.gov.sg/docs/SGN-ND-Buntings.pdf).
 
 ### Almost as good as being there
 ![Zoom Background](/images/national-day/NDZoombg.png)
