@@ -49,7 +49,7 @@ Join in a magical storytelling session by Singaporean author Gwen Lee. _(Coming 
 
 Or, you can explore the places, history and legends of Singapore through these stories!
 
-* **[A Narrow Escape](https://www.youtube.com/watch?v=GK-OIE0QqKM&feature=youtu.be):** Join twins Toby and Tammy as they travel back in time to 1935, and go on an adventure and discover Singapore’s historical awe-inspiring buildings.  
+* **[A Narrow Escape](https://www.youtube.com/watch?v=GK-OIE0QqKM&feature=youtu.be):** Join twins Toby and Tammy as they travel back in time to 1935, and go on an adventure to discover Singapore’s historical awe-inspiring buildings.  
 _Fun fact: These buildings are now preserved as Singapore’s National Monuments!_
 * **[History of Singapore](https://www.youtube.com/watch?v=DbaQmATHoww):** Follow the journey of Singapore’s history in this animation, from when our pioneers first arrived on our sunny island, to gaining Independence and the modernisation of our country.  
 * **[Attack of the Swordfish](https://www.facebook.com/NationalHeritageBoardSG/videos/2508430612805646/):** What has a swordfish got to do with a Singapore town? Find out how the neighbourhood of Redhill got its name, and spot fellow Singaporeans contributing to this creative storytelling!  
