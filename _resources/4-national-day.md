@@ -26,7 +26,7 @@ View the Singapore’s [National Day Parade 2020](https://www.ndp.gov.sg/whatsha
 Got a birthday wish for Singapore? Join Singaporeans and friends of Singapore from all around the world in [sharing your stories](https://www.ndp.gov.sg/ourheartforsg/overview) for the little red dot. Share your reflections, your words of thanks, your hopes and aspirations. Share from your heart. Together, these make up our experience as a people: what we have gone through, and where we want to go. Don't forget to hashtag #SGNcelebrates and #OurHeartforSG in your well wishes!
 
 ### Celebrations around the world!
-Singapore communities everywhere are organising e-gatherings this August. Find one near you!
+Singapore communities everywhere are organising e-gatherings this August. Find one near you! _(Event Listing coming soon! If you are having an event and want to feature it on our website, do email hello@singaporeglobalnetwork.sg)_
 
 ## <a id="sights-and-sounds"></a>Re-creating the Sights and Sounds of Singapore
 
@@ -80,4 +80,4 @@ Tried-and-tested recipes from the community from [Bak Kut Teh Porridge](https://
 ## Singapore Global Network Funding Programme
 ![SGN Funding Programme](/images/national-day/SGNFP-ND.png)
 Thinking of rounding up the folks in your city to celebrate? You may tap on the Singapore Global Network Funding Programme (SGNFP) to fund digital tools and events in your efforts to grow and sustain connections of Singapore’s family and friends!
-[Apply Now](https://www.singaporeglobalnetwork.gov.sg/funding/)
+**[Apply Now](https://www.singaporeglobalnetwork.gov.sg/funding/)**
