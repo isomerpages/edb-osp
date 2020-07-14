@@ -23,7 +23,7 @@ We’re so excited to see how our SGN community marks Singapore’s National Day
 Viewing Singapore’s [National Day Parade 2020](https://www.ndp.gov.sg/whatshappening/bringing-ndp-to-our-homes/) online. Even better, organise a virtual watch party with friends and loved ones!
 
 ### Share your stories
-Join Singaporeans and friends of Singapore from all around the world in [sharing your stories](https://www.ndp.gov.sg/ourheartforsg/overview) for the little red dot! Share your reflections, your words of thanks, your hopes and aspirations. Share from your heart. Together, these make up our experience as a people: what we have gone through, and where we want to go!
+Join Singaporeans and friends of Singapore from all around the world in [sharing your stories](https://www.ndp.gov.sg/ourheartforsg/overview) for the little red dot. Share your reflections, your words of thanks, your hopes and aspirations. Share from your heart. Together, these make up our experience as a people: what we have gone through, and where we want to go.
 
 ### Celebrations around the world!
 Singapore communities everywhere are organising e-gatherings this August. Find one near you!
@@ -61,7 +61,7 @@ _Image Credits: [National Museum of Singapore](https://www.nhb.gov.sg/nationalmu
 Find out more about the heritage scenes and sights in Singapore through this colouring activity, consisting of seven mural scenes created by Yip Yew Chong from the National Museum of Singapore’s Moving Memories installation. Download scenes from [Kampungs](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/1_a4_moving-memories-1---kampung.pdf), [Kopitiam](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/2_a4_moving-memories-2---kopitiam.pdf), [Barber](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/3_a4_moving-memories-3---barber.pdf), and even an old school [Provision Shop](https://www.nhb.gov.sg/nationalmuseum/-/media/nms2017/documents/senior-programmes/colouring-templates/7_a4_moving-memories-7--provision-shop.pdf)! To explore the rest of the templates, please refer to this [link](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/museumfromhome---get-curious?sc_lang=en). The Moving Memories installation, which was first presented at the museum in 2017, can now be enjoyed [online](https://www.youtube.com/watch?v=FraabLL9XdM), anywhere and anytime. Enjoy viewing the video installation as a family! Get the entire family to join in, so they can share stories about their experiences with these heritage scenes and sights of the past. 
 
 
-Did you also know that there are tons of local children’s titles with familiar themes, all at your fingertips – and free to loan from the National Library Board! - _Coming soon!_
+Did you also know that there are tons of local children’s titles with familiar themes, all at your fingertips – and free to loan from the National Library Board. - _Coming soon!_
 
 ### Make playtime more fun
 Introduce your little ones to the little red dot with Singapore-themed [games, colouring pages, and more.](https://www.singaporeglobalnetwork.gov.sg/resources/resources-for-kids/)
