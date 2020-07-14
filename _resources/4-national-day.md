@@ -20,7 +20,7 @@ We’re so excited to see how our SGN community marks Singapore’s National Day
 ## <a id="hottest-nd-parties"></a>The Hottest National Day Parties in Town
 ![National Day Celebrations](/images/national-day/NDCelebrations.jpg)
 ### Catch the party of the year
-Viewing Singapore’s [National Day Parade 2020](https://www.ndp.gov.sg/whatshappening/bringing-ndp-to-our-homes/) online. Even better, organise a virtual watch party with friends and loved ones!
+View the Singapore’s [National Day Parade 2020](https://www.ndp.gov.sg/whatshappening/bringing-ndp-to-our-homes/) online. Even better, organise a virtual watch party with friends and loved ones!
 
 ### Share your stories
 Got a birthday wish for Singapore? Join Singaporeans and friends of Singapore from all around the world in [sharing your stories](https://www.ndp.gov.sg/ourheartforsg/overview) for the little red dot. Share your reflections, your words of thanks, your hopes and aspirations. Share from your heart. Together, these make up our experience as a people: what we have gone through, and where we want to go. Don't forget to hashtag #SGNcelebrates and #OurHeartforSG in your well wishes!
@@ -30,14 +30,14 @@ Singapore communities everywhere are organising e-gatherings this August. Find o
 
 ## <a id="sights-and-sounds"></a>Re-creating the Sights and Sounds of Singapore
 
+### Add a touch of red and white
+![National Day Buntings](/images/national-day/NDbuntings.png)
+Feeling crafty? We love these easy, no-sew [DIY flags](docs/NDFlagDIY.pdf) and [buntings](docs/SGN-ND-Buntings.pdf).
+
 ### Almost as good as being there
 ![Zoom Background](/images/national-day/NDZoombg.png)
 
 Are you celebrating online this year? Transport yourself to Singapore with these wonderfully nostalgic [Zoom backgrounds](https://www.singaporeglobalnetwork.gov.sg/resources/shntertainment/#wfh-stuff).
-
-### Add a touch of red and white
-![National Day Buntings](/images/national-day/NDbuntings.png)
-Feeling crafty? We love these easy, no-sew [DIY flags](docs/NDFlagDIY.pdf) and [buntings](docs/SGN-ND-Buntings.pdf).
 
 ### The essential [Spotify playlist](https://open.spotify.com/playlist/2g7OIauaGcWWBAsfldwywB?si=Jxa_8dX6Rza4cnNuaJtQmQ) every August
 Of course, it features everyone’s fave – Home.
