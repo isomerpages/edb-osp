@@ -23,7 +23,7 @@ We’re so excited to see how our SGN community marks Singapore’s National Day
 Viewing Singapore’s [National Day Parade 2020](https://www.ndp.gov.sg/whatshappening/bringing-ndp-to-our-homes/) online. Even better, organise a virtual watch party with friends and loved ones!
 
 ### Share your stories
-Join Singaporeans and friends of Singapore from all around the world in [sharing your stories](https://www.ndp.gov.sg/ourheartforsg/overview) for the little red dot. Share your reflections, your words of thanks, your hopes and aspirations. Share from your heart. Together, these make up our experience as a people: what we have gone through, and where we want to go.
+Got a birthday wish for Singapore? Join Singaporeans and friends of Singapore from all around the world in [sharing your stories](https://www.ndp.gov.sg/ourheartforsg/overview) for the little red dot. Share your reflections, your words of thanks, your hopes and aspirations. Share from your heart. Together, these make up our experience as a people: what we have gone through, and where we want to go. Don't forget to hashtag #SGNcelebrates and #OurHeartforSG in your well wishes!
 
 ### Celebrations around the world!
 Singapore communities everywhere are organising e-gatherings this August. Find one near you!
