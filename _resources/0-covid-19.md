@@ -15,7 +15,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. 
 
-- **It is mandatory for all Singaporeans, PRs and LTVPs arriving from 9 Apr, 11.59pm onwards to stay at SHN Dedicated Facilities(SDF) for the duration of their SHN period. However, all travellers who had remained in Australia, Brunei Darussalam, Germany, Hong Kong SAR, Japan, Macao SAR, mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their arrival and entry into Singapore, will no longer need to serve their SHN at SDF. All other travellers entering Singapore will continue to serve their SHN at SDF, for now. You may contact the SHN helpline at +65 6812 5555 or refer to [our FAQs here](https://go.gov.sg/weareinthistgt) for more information.**
+- **It is mandatory for all Singaporeans, PRs and LTVPs arriving from 9 Apr, 11.59pm onwards to stay at SHN Dedicated Facilities(SDF) for the duration of their SHN period. However, all travellers who had remained in Australia, Brunei Darussalam, Hong Kong SAR, Japan, Macao SAR, mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their arrival and entry into Singapore, will no longer need to serve their SHN at SDF. All other travellers entering Singapore will continue to serve their SHN at SDF, for now. You may contact the SHN helpline at +65 6812 5555 or refer to [our FAQs here](https://go.gov.sg/weareinthistgt) for more information.**
 
 - Besides the SHN, there will be a test for all incoming travellers before the end of their SHN, and this applies to all travellers entering Singapore from 17 June 2020, 2359 hours. However, for children aged 12 and below, they are not required to undergo the COVID-19 test before the end of their SHN unless the test results of their close contacts are found to be positive. More details [here](https://www.moh.gov.sg/news-highlights/details/gradual-re-opening-of-travel-and-changes-to-border-measures).
 
@@ -28,8 +28,6 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - For returning pet owners, download Animal & Veterinary Service (AVS) info-pack [here](https://www.nparks.gov.sg/-/media/avs/migrated-content/animals-and-pets/bringing-animals-into-singapore-and-exporting/bringing-dogs-and-cats/info-pack-for-returning-pet-owners-(us-uk)_updated-27-mar-2020-1130h.pdf?la=en&hash=4E686D4EF93F4EC847772758AB2415DA6B346D4F) or check out the [AVS website](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore) to find out what you need to do to bring your furry friends home with you! 
 
 - Keep updated with the latest news resources and public statements [below](#latest-news).
-
-[Download the checklist](http://go.gov.sg/sgn-returningoschecklist), and share them with fellow returning Singapore residents!
 
 ### <a id="based-overseas"></a> If you're based overseas
 
