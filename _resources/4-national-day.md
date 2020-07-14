@@ -74,7 +74,8 @@ Have fun colouring these images of our favourite childhood toys - [Five stones a
 ## <a id="local-food-recipes"></a>The Way to Every Singaporean's Heart
 
 ### … is through our stomach!
-[Tried-and-tested recipes](https://www.singaporeglobalnetwork.gov.sg/food-for-thought/from-the-community/recipe-ideas-for-staying-at-home) from the community for local dishes – need we say more?
+![SG Food](/images/national-day/NDFoodie.png)
+Tried-and-tested recipes from the community from [Bak Kut Teh Porridge](https://www.singaporeglobalnetwork.gov.sg/food-for-thought/from-the-community/recipe-ideas-for-staying-at-home) to [Brown Sugar Bubble Tea](https://www.singaporeglobalnetwork.gov.sg/food-for-thought/from-the-community/from-bak-kut-teh-porridge-to-bak-chor-bee-hoon) – need we say more?
 
 ## Singapore Global Network Funding Programme
 ![SGN Funding Programme](/images/national-day/SGNFP-ND.png)
