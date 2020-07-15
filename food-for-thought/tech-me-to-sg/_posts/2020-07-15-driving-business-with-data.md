@@ -2,7 +2,7 @@
 layout: post
 title: "Women in Tech: Driving business with data"
 permalink: /food-for-thought/tech-me-to-sg/driving-business-with-data
-image: /images/stories/2020/Jul/shaowenshopee.jpg
+image: /images/stories/2020/Jul/shaowenshopee.png
 ---
 
 ### Women in Tech: Driving business with data
@@ -17,7 +17,7 @@ Behind the scenes, and screens, businesses are revving up with the meaningful an
 
 #### Data: a powerful tool that drives greater business decisions 
 
-![Dr Megan](/images/stories/2020/Jul/drmeganntuc.png)
+![Dr Megan](/images/stories/2020/Jul/drmeganntuc.png)<br/>
 _(Dr Megan (pictured) leads a team at NTUC FairPrice that uses data to speed up business efficiencies.)_
 
 [Dr Megan Yao](https://sg.linkedin.com/in/megan-yuxia-yao-phd-97124417), head of advanced analytics at [NTUC FairPrice](https://www.fairprice.com.sg/), is helming a team tasked with switching up the online grocery business of Singapore’s largest supermarket chain. The team has been paving the foundation for the business to make better and faster data-driven decisions.
@@ -44,7 +44,7 @@ However, being in that space served as both a motivator and inspiration for Shao
 
 In an industry that is traditionally male-dominated, Shaowen reckons that it is important for women to support, motivate, and raise one another. “Personally, it inspires me to see more women in leadership roles and positions today. It is a firm testament to the fact that truly, gender is no inhibitor to one’s accomplishments,” she says. 
 
-![Shaowen](/images/stories/2020/Jul/shaowenshopee.png)
+![Shaowen](/images/stories/2020/Jul/shaowenshopee.png)<br/>
 _(Shaowen (pictured) believes that gender should not inhibit one’s potential to succeed.)_
 
 Being in a working environment that celebrates female empowerment, gender equality and diversity has laid firm grounds for women to achieve a successful career in tech. For example, working mothers are granted flexible work hours at Shopee, and the business has also partnered with organisations like [Coding Girls](https://codinggirls.sg/) to empower more women to pick up coding skills. Initiatives like these enable new mothers like Shaowen to give her best both at home and at work. 
