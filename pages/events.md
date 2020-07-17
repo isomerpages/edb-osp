@@ -7,7 +7,12 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
-| Shopee Code League 2020 | 8 Jun - 1 Aug | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
+| Future in Asean: Tech in Indonesia: Where are the opportunities? | 18 Jul | [Find out more](https://www.singaporeglobalnetwork.com/events/future-in-asean/) |
+| After the Pandemic — The Rebirth of Big Government | 22 Jul | [Find out more](https://www.singaporeglobalnetwork.com/events/after-the-pandemic/) |
+| Taking A Product from Zero to One | 23 Jul | [Find out more](https://www.singaporeglobalnetwork.com/events/taking-a-product-from-zero-to-one/) |
+| Pints and Prata #3 - Ready, Set, Start Up! | 25 Jul | [Find out more](https://www.singaporeglobalnetwork.com/events/ready-set-startup/) |
+| Eco Entrepreneurs - Artisan Green | 30 Jul | [Find out more](https://www.singaporeglobalnetwork.com/events/eco-entrepreneurs-series/) |
+| Shopee Code League 2020 | Now till 1 Aug | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
 
 
 ### Past Events
