@@ -14,7 +14,6 @@ How will COVID-19 affect youths’ opportunities to access the Indonesia technol
 
 Gain valuable insights from our panel of experts - Founder and CEO of Rentfix.com, Effendy Tanuwidjaja, and CEO of OLX Autos Indonesia, Johnny Widodo.
 The moderator for this session will be Ms Khushbu Topandasani, Investment Associate at Vertex Ventures with experiences in Singapore and Indonesia. 
-Sign up for the webinar at 
 
 Date: 18 Jul 2020, Saturday
 
