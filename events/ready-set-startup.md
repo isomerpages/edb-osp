@@ -4,10 +4,8 @@ permalink: /events/ready-set-startup/
 image: /images/events/2020/pintsprata3.jpg
 ---
 
-#### After the Pandemic — The Rebirth of Big Government
+#### Pints and Prata #3: Ready, Set, Start Up!
  
-Join us for our next webinar on 25 July 2020 - Ready, Set, Start Up!
-
 Startup journey - A walk in the park or a minefield of risks? Come listen to Kenneth's (seedly.sg) and Joshua's (hypotenuse.ai) journey on how they grew an idea, joined accelerators, and got funding! A not-to-be-missed event featuring a Y Combinator veteran and an Amazon UK alumnus. 
 
 Date: 25 Jul 2020, Saturday
