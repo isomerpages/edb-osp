@@ -55,6 +55,8 @@ Funding is capped at the committed costs of the initiatives upon approval of app
 
 ### How to apply
 
+Prior to applying for SGNFP, please ensure that you have signed up with SGN to facilitate the processing of your application. Thereafter, you may submit your funding application here, and follow the steps below if you wish to apply.  
+
 -	Applications are open throughout the year and must be submitted to SGN at least **3 weeks before the event**. The processing timeline required may be longer for complex cases or cases with incomplete information.  
 -	Ground-up initiatives that have already taken place or generate profits will not be eligible for funding. 
 -	Funding requests for multiple initiatives may be included within each application.  
