@@ -82,3 +82,6 @@ Tried-and-tested recipes from the community from [Bak Kut Teh Porridge](https://
 ![SGN Funding Programme](/images/national-day/SGNFP-ND.png)
 Thinking of rounding up the folks in your city to celebrate? You may tap on the Singapore Global Network Funding Programme (SGNFP) to fund digital tools and events in your efforts to grow and sustain connections of Singapore’s family and friends!
 **[Apply Now](https://www.singaporeglobalnetwork.gov.sg/funding/)**
+
+**We want to know what you think**
+Did you enjoy these resources? If you liked it(or not!), please let us know [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ibqdZirxHE2gJkM0KNrTEUxffw-sT4ZGhbwfJLw5r6lUQkpRU0xSUkdDSFNBQkg5VjRGM1lPNkxRTy4u)!
