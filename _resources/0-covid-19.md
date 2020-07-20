@@ -29,6 +29,8 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Keep updated with the latest news resources and public statements [below](#latest-news).
 
+[Download the checklist](https://go.gov.sg/sgn-returningoschecklist), and share them with fellow returning Singapore residents!
+
 ### <a id="based-overseas"></a> If you're based overseas
 
 - [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
