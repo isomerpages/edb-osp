@@ -15,7 +15,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. 
 
-- **It is mandatory for all Singaporeans, PRs and LTVPs arriving from 9 Apr, 11.59pm onwards to stay at SHN Dedicated Facilities(SDF) for the duration of their SHN period. However, all travellers who had remained in Australia, Brunei Darussalam, Hong Kong SAR, Japan, Macao SAR, mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their arrival and entry into Singapore, will no longer need to serve their SHN at SDF. All other travellers entering Singapore will continue to serve their SHN at SDF, for now. You may contact the SHN helpline at +65 6812 5555 or refer to [our FAQs here](https://go.gov.sg/weareinthistgt) for more information.**
+- **It is mandatory for all Singaporeans, PRs and LTVPs (with valid approval for entry) arriving from 9 Apr, 11.59pm onwards to stay at SHN Dedicated Facilities(SDF) for the duration of their SHN period. However, all travellers who had remained in Australia (except state of Victoria), Brunei Darussalam, Macao SAR, mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their arrival and entry into Singapore, will no longer need to serve their SHN at SDF. All other travellers entering Singapore including those arriving from Australia (state of Victoria) will continue to serve their SHN at SDF, for now. You may contact the SHN helpline at +65 6812 5555 or refer to [our FAQs here](https://go.gov.sg/weareinthistgt) for more information.**
 
 - Besides the SHN, there will be a test for all incoming travellers before the end of their SHN, and this applies to all travellers entering Singapore from 17 June 2020, 2359 hours. However, for children aged 12 and below, they are not required to undergo the COVID-19 test before the end of their SHN unless the test results of their close contacts are found to be positive. More details [here](https://www.moh.gov.sg/news-highlights/details/gradual-re-opening-of-travel-and-changes-to-border-measures).
 
@@ -45,7 +45,9 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 ### <a id="latest-news"></a> Latest news
 
+* [Travellers entering Singapore after visiting Japan, HK, Australia's Victoria state must serve SHN at dedicated hotels](#shn-changes-19-july)
 * [Cost of Covid-19 tests to be waived for returning Singaporeans and PRs](#covid-test-waive)
+* [All travellers coming into Singapore to be tested before Stay-Home Notice ends](#covid-test-shn-ends)
 * [Phase 2 of Singapore's reopening: What you can do from June 19](#phase-2)
 * [Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate](#reopen-borders)
 * [Travellers allowed to transit through Changi Airport from Jun 2](#transit-travellers)
@@ -74,6 +76,12 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+#### <a id="shn-changes-19-july"></a> Travellers from Japan, HK, Australia's Victoria state must serve SHN at dedicated hotels
+
+From 19 July 2020, 2359 hours, travellers entering Singapore after visits to - including transits in - Japan, Hong Kong and the Australian state of Victoria within the last 14 days will be required to serve their stay-home notice (SHN) at dedicated hotels instead of at their own place of residence.
+
+Read more [here](https://str.sg/Je4L)
+
 #### <a id="covid-test-waive"></a> Cost of Covid-19 tests to be waived for Singaporeans and PRs
 
 Singaporeans and permanent residents who left Singapore before an advisory against travelling out of the country was issued on March 27 and who are returning in the near future will not have to pay for their Covid-19 tests.
@@ -81,6 +89,14 @@ Singaporeans and permanent residents who left Singapore before an advisory again
 But this holds only if they enter Singapore by Aug 31, the Ministry of Health (MOH) said on Wednesday (June 17).
 
 Read more [here](https://str.sg/JWc7)
+
+#### <a id="covid-test-shn-ends"></a> All travellers entering Singapore to be tested during Stay-Home Notice
+
+All travellers entering Singapore from 17 June 2020, 2359 hours, will be tested for COVID-19. 
+
+But this holds only if they enter Singapore by Aug 31, the Ministry of Health (MOH) said on Wednesday (June 17).
+
+Read more [here](https://www.channelnewsasia.com/news/singapore/covid-19-phase-2-border-controls-testing-stay-home-notice-12837310)
 
 #### <a id="phase-2"></a> Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate
 
@@ -215,10 +231,6 @@ Read the release from MOH [here](https://www.moh.gov.sg/news-highlights/details/
 
 #### <a id="info-os-return"></a> Info for Overseas Singaporeans Returning to Singapore
 
-![Image](/images/covid-19/SGN-OS-Info-Telegram.jpg)
-
-For more info:
-
 - [ICA COVID updates](https://www.ica.gov.sg/covid-19)
 
 - [What is SHN?](https://go.gov.sg/mohshn)
@@ -232,9 +244,6 @@ For more info:
 Singaporeans and residents returning to the country will all have to serve a 14-day isolation period, while people in the country should defer all travel overseas, the authorities announced on Wednesday (March 18), as  the country saw 47 new cases, an all-time high.
 
 The new, broader measures to contain the coronavirus come as the country braces itself for more to come.
-
-![Image](/images/covid-19/border_control_measures_ST.png)
-_(Photo credit: The Straits Times)_
 
 To read the full article, please visit [here](https://www.straitstimes.com/singapore/covid-19-all-time-high-of-47-new-cases-in-singapore-14-day-stay-home-notice-will-now-apply?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2020-03-18%2021%3A03%3A41)
 
@@ -262,9 +271,6 @@ To read the full article, please visit [here](https://www.channelnewsasia.com/ne
 #### <a id="stay-home-notice"></a> Stay-home notices for travellers entering Singapore
 
 As of 16 March 2020 2359, all travellers including Singapore residents, long-term pass holders and short-term visitors, with recent travel history to countries indicated will be issued with a 14 day stay-home notice. The new border control measures are aimed at preventing further importation of COVID-19 cases.
-
-![Image](/images/covid-19/stay-home-notice.jpg)
-_(Credit: Channel News Asia/Ministry of Health Singapore)_
 
 The Ministry of Health has also advised Singaporeans to differ all non-essential travel abroad, to reduce the risk of Singaporeans contracting the COVID-19 infection overseas.
 
