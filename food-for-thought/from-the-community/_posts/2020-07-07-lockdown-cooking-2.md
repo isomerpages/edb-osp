@@ -2,7 +2,7 @@
 layout: post
 title: "Lockdown Cooking: Beyond Borders"
 permalink: /food-for-thought/from-the-community/lockdown-cooking2
-image: /images/stories/2020/Jul/lockdowncooking2-5.png
+image: /images/stories/2020/Jul/lockdowncooking2-7.png
 ---
 
 ### Lockdown Cooking: Beyond Borders
