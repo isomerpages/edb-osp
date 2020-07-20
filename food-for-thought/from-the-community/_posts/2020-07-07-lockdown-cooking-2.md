@@ -90,7 +90,8 @@ FOR THE MARINADE<br/>
 •	Salt<br/>
 •	Black pepper<br/>
 </td>
-<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-5.png" />(Image credit: The Forked Spoon)</td>
+<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-5.png" />(Image credit: [https://theforkedspoon.com/](https://theforkedspoon.com/))</td>
+
 </tr>
 </table>
 
