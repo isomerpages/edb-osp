@@ -2,7 +2,7 @@
 layout: post
 title: "Lockdown Cooking: Beyond Borders"
 permalink: /food-for-thought/from-the-community/lockdown-cooking2
-image: /images/stories/2020/Jul/lockdowncooking2-7.png
+image: /images/stories/2020/Jul/lockdowncooking2-5.png
 ---
 
 ### Lockdown Cooking: Beyond Borders
@@ -90,7 +90,7 @@ FOR THE MARINADE<br/>
 •	Salt<br/>
 •	Black pepper<br/>
 </td>
-<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-5.png" />(Image credit: [https://theforkedspoon.com/](https://theforkedspoon.com/))</td>
+<td style="width: 250px;"><img src="/images/stories/2020/Jul/lockdowncooking2-5.png" />Image credit: [The Forked Spoon](https://theforkedspoon.com/)</td>
 
 </tr>
 </table>
